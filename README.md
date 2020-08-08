@@ -9,8 +9,7 @@ Junior Full Stack Developer | React - Node
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-lucass/)](https://www.linkedin.com/in/ricardo-lucass/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519995621276&text=Hello!)](https://api.whatsapp.com/send?phone=5519995621276&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasricardolemes@gmail.com)](mailto:lucasricardolemes@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasricardolemes@gmail.com)](mailto:lucasricardolemes@gmail.com)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAgnoos_)
+
  
 - Thanks for visiting. 
  
