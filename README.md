@@ -11,7 +11,7 @@ Junior Full Stack Developer | React - Node
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519995621276&text=Hello!)](https://api.whatsapp.com/send?phone=5519995621276&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasricardolemes@gmail.com)](mailto:lucasricardolemes@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Agnoos-black?style=flat-square&labelColor=black&logo=twitter&logoColor=ffd700&link=https://twitter.com/Agnoos_)](https://twitter.com/Agnoos_) 
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&labelColor=black&logo=spotify&logoColor=black&link=https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y)](https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y) 
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&link=https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y)](https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y) 
 
 
 
