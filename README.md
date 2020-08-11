@@ -3,6 +3,8 @@
 ## I'm Lucas Ricardo
  
 Junior Full Stack Developer | React - Node
+
+(: ǝpnʇıןos puɐ ɔısnɯ ɹoɟ ɔıʇɐuɐɟ
  
 ## About me 
 
