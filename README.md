@@ -15,4 +15,4 @@ Junior Full Stack Developer | React - Node
 [![Spotify](http://img.shields.io/badge/-spotify-145e2e?style=flat-square&link=https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y)](https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y) 
 
 
-_**- Thanks for visiting. **_
+_**- Thanks for visiting... **_
