@@ -14,7 +14,7 @@ Junior Full Stack Developer | React - Node
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasricardolemes@gmail.com)](mailto:lucasricardolemes@gmail.com)
 [![Spotify](http://img.shields.io/badge/-spotify-145e2e?style=flat-square&link=https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y)](https://open.spotify.com/user/niibiru?fbclid=IwAR2gl0nk2zVU0YtXBuzqkLhfXEj-_CtzYKT4fw00km4uwKdjz_COyULhh3Y) 
 
-[![Spotify](https://agnoos.vercel.app/api/spotify)](https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs)
+[![Spotify](https://https://i-love-music.agnoos.vercel.app/api/spotify)](https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs)
 
 
 _**- Thanks for visiting... **_
