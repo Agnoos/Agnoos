@@ -20,18 +20,5 @@ Junior Full Stack Developer | React - Node
 
 [![Spotify](https://now-playing-bvdddpyat.vercel.app/api/spotify)](https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs)
 
-http://10.2.2.202:8089/superset/explore/?r=3&standalone=true&height=400
-
-<iframe
-  width="600"
-  height="400"
-  seamless
-  frameBorder="0"
-  scrolling="no"
-  src="http://10.2.2.202:8089/superset/explore/?r=3&standalone=true&height=400"
->
-</iframe>
-
-
 
 _**- Thanks for visiting... **_
