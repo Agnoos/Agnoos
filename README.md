@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lucasricardolemes@gmail.com**
 
-- 📄 Know about my experiences [Junior developer, working in the IT area since the age of 17, when I started the technical course of analysis and systems development in 2016, later joining the undergraduate course in information technology at PUC-Campinas, where I graduate at the end of 2021.](Junior developer, working in the IT area since the age of 17, when I started the technical course of analysis and systems development in 2016, later joining the undergraduate course in information technology at PUC-Campinas, where I graduate at the end of 2021.)
+- 📄 Know about my experiences [Junior developer, working in the IT area since the age of 17, when I started the technical course of analysis and systems development in 2016, later joining the undergraduate course in information technology at PUC-Campinas, where I graduate at the end of 2021.])
 
 - ⚡ Fun fact **Passionate about film, art, music and baking soda.**
 
