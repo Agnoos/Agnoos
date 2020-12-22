@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://agnoos.github.io](https://agnoos.github.io)
+- 👨‍💻 All of my projects are available at [agnoos.github.io](https://agnoos.github.io)
 
 - 📝 I regularly write articles on [agnoos.com](https://agnoos.com/)
 
