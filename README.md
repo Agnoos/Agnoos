@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/14463169/lucas-ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14463169/lucas-ricardo" height="30" width="40" /></a>
 <a href="https://fb.com/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="agnoos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="agnoos" height="30" width="40" /></a>
-<a href="/agnoos.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="agnoos.com" height="30" width="40" /></a>
+<a href="https://agnoos.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="agnoos.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
