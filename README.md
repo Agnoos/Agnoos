@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo</h1>
 <h3 align="center">Junior developer, passionate about technology</h3>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/agnoos_" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/agnoos_?logo=twitter&style=for-the-badge" alt="twitter.com/agnoos_" /></a> </p>
-
 - 🔭 I’m currently working on [Kaffa Mobile](https://www.linkedin.com/company/kaffa-mobile/?originalSubdomain=br)
 
 - 🌱 I’m currently learning **Python, Typescript**
@@ -21,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/agnoos_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter.com/agnoos_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ricardo-lucass/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/ricardo-lucass/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/14463169/lucas-ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow.com/users/14463169/lucas-ricardo" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/agnoos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="www.facebook.com/agnoos/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="www.youtube.com/agnoos" height="30" width="40" /></a>
+<a href="https://twitter.com/agnoos_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="agnoos_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-lucass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-lucass" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14463169/lucas-ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14463169/lucas-ricardo" height="30" width="40" /></a>
+<a href="https://fb.com/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="agnoos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="agnoos" height="30" width="40" /></a>
 <a href="/agnoos.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="agnoos.com" height="30" width="40" /></a>
 </p>
 
