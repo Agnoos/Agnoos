@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/ricardo-lucass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-lucass" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14463169/lucas-ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14463169/lucas-ricardo" height="30" width="40" /></a>
 <a href="https://fb.com/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="agnoos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/agnoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="agnoos" height="30" width="40" /></a>
 <a href="https://agnoos.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="agnoos.com" height="30" width="40" /></a>
 </p>
 
@@ -35,10 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnoos&show_icons=true&locale=en" alt="agnoos" /></p>
 
 
-### Now Playing  >> 🔊🔊🔊
+<h1 align="center">Now Playing 🔊</h1>
+<h1 align="center"><a href="https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs" target="_blank"> <img src="https://now-playing-bvdddpyat.vercel.app/api/spotify" alt="agnoos spotify"/> </a></h1>
 
+<h3 align="center">❤❤ Thanks for visiting ❤❤</h3>
 
-[![Spotify](https://now-playing-bvdddpyat.vercel.app/api/spotify)](https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs)
-
-
-_**- Thanks for visiting... **_
