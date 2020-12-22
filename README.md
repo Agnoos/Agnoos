@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://agnoos.github.io](https://agnoos.github.io)
 
-- 📝 I regularly write articles on [agnoos.com](agnoos.com)
+- 📝 I regularly write articles on [agnoos.com](https://agnoos.com/)
 
 - 💬 Ask me about **React, Node and Javascript**
 
