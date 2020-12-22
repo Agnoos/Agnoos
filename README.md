@@ -1,12 +1,14 @@
 # Welcome!
  
 ## I'm Lucas Ricardo
- 
-Junior Full Stack Developer | React - Node
 
-(: ǝpnʇıןos puɐ ɔısnɯ ɹoɟ ɔıʇɐuɐɟ
+Junior developer, working in the IT area since the age of 17, when I started the technical course of analysis and systems development in 2016, later joining the undergraduate course in information technology at PUC-Campinas, where I graduate at the end of 2021.
+
+I worked in the most varied areas of IT, I have already provided support, intern in tests, freelancer, help desk, and now I am as a developer. I intend to build a career in the area, assuming responsibilities and exceeding goals.
+
+If I'm not coding, I'm watching a movie, playing a video game or listening to music, I'm passionate about cinema and art, and I spend my free time writing about them.
  
-## About me 
+## Social
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Agnoos)](https://github.com/Agnoos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-lucass/)](https://www.linkedin.com/in/ricardo-lucass/)
