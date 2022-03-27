@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo</h1>
 <h3 align="center">Junior developer, passionate about technology</h3>
 
-- 🔭 I’m currently working on [Kaffa Mobile](https://www.linkedin.com/company/kaffa-mobile/?originalSubdomain=br)
+- 🔭 I’m currently working on [Codex](https://br.linkedin.com/company/codexcorporacao?trk=affiliated-pages)
 
 - 🌱 I’m currently learning **Python, Typescript**
 
