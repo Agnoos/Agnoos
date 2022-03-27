@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [agnoos.github.io](https://agnoos.github.io)
 
-- 📝 I regularly write articles on [agnoos.com](https://agnoos.com/)
-
 - 💬 Ask me about **React, Node and Javascript**
 
 - 📫 How to reach me **lucasricardolemes@gmail.com**
