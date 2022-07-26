@@ -33,7 +33,7 @@
 
 
 <h1 align="center">Now Playing 🔊</h1>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niibiru&cover_image=true&theme=default&bar_color=d62424&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<h1 align="center"><a href="https://open.spotify.com/user/niibiru?fbclid=IwAR22Q1KFYE--6CqfhTRsaHCDhxd0Yqyac6iZa-H1Z8IldAOtZhOVTWd0tFs" target="_blank"> <img src="[https://now-playing-bvdddpyat.vercel.app/api/spotify](https://spotify-github-profile.vercel.app/api/view?uid=niibiru&cover_image=true&theme=default&bar_color=d62424&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="agnoos spotify"/> </a></h1>
 
 <h3 align="center">❤❤ Thanks for visiting ❤❤</h3>
 
