@@ -7,10 +7,6 @@
 <a href="https://linkedin.com/in/ricardo-lucass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-lucass" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnoos&show_icons=true&locale=en&layout=compact" alt="agnoos"  width="370"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnoos&show_icons=true&locale=en" alt="agnoos" width="440" /></p>
-
 
 <h1 align="center">Now Playing 🔊</h1>
 <h1 align="center"><a href="https://open.spotify.com/user/niibiru" target="_blank"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=niibiru&cover_image=true&theme=default&bar_color=d62424&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" alt="agnoos spotify"/> </a></h1>
